@@ -2,70 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cefd0bea-8ee0-4d01-8d69-ef2315ec526e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ch02_05_grayscaling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ch02_06_color_spaces.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/4star.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/Hillary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/IMG_7539.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/IMG_8295.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/Origin_of_Species.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/Sunflowers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/Trump.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/WaldoBeach.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/abraham.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/abraham_mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/beatle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/blobs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/bottlecaps.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/box_in_scene.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/bunchofshapes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/candy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/cars.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/chess.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/chihuahua.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/coffee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/contours.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/digits.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/domino.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/eigenface_reconstruction_opencv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/elephant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/ex2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/faceswap.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/gradient.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/hand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/house.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/input.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/input33.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/kim.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/lourve_noise.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/marsface.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/numbers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/obama.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/obamafacerecog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/opencv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/opencv_inv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/photorestore.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/rot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/scan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/shapes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/shapes_donut.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/shapestomatch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/soduku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/someshapes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/tobago.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/truck.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/waldo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/walking.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ch02.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/ch02_04_beginning.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,6 +29,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/ch02" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,6 +48,58 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.ch02_06_color_spaces">
+    <configuration name="ch02_05_grayscaling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learning_cv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/ch02_05_grayscaling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ch02_06_color_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learning_cv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/ch02_06_color_spaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ch02_06_color_spaces" />
+        <item itemvalue="Python.ch02_05_grayscaling" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -97,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610878542025</updated>
-      <workItem from="1610878579791" duration="1201000" />
+      <workItem from="1610878579791" duration="5155000" />
     </task>
     <servers />
   </component>
@@ -114,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learning_cv$ch02_05_grayscaling.coverage" NAME="ch02_05_grayscaling Coverage Results" MODIFIED="1610882775082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/learning_cv$ch02_06_color_spaces.coverage" NAME="ch02_06_color_spaces Coverage Results" MODIFIED="1610884275025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
   </component>
 </project>
